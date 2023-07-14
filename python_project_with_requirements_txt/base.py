@@ -1,7 +1,7 @@
 """
-project_name base module.
+python_project_with_requirements_txt base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the python_project_with_requirements_txt project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
@@ -14,4 +14,4 @@ and then choose `flask` as template.
 """
 
 # example constant variable
-NAME = "project_name"
+NAME = "python_project_with_requirements_txt"
